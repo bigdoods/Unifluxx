@@ -13,7 +13,6 @@ config.prod.js
 *.png
 ssl
 TODO
-config.js
 secrets.yaml
 *.DS_Store
 docker-compose.yml
