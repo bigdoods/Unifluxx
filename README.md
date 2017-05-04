@@ -43,7 +43,7 @@ NBS ClientID and ClientSecret. Contact info@thenbs.com for API key.
 
 9. Update value of source key (e.g data/sampleSource.json) and wait for server to finish fetching from NBS (NBS API currently has rate limit of one request per second so 3 uniclass codes = 3 * 5(ForEach Level of Information 2-6) = 15 requests = 15 seconds.)
 
-10. See target key for reponse from NBS API (e.g data/sampleOutput.json) and the Error key for details on whihc codes failed to fetch from the NBS toolkit API.
+10. See target key for reponse from NBS API (e.g data/sampleOutput.json) and the Error key for details on which codes failed to fetch from the NBS toolkit API.
 
 ## Deployment
 
